@@ -1,4 +1,4 @@
-# Aerial Robotics Project Overview
+# Aerial Robotics - Path Following Algorithm for Quadcopter
 
 ## Introduction
 
